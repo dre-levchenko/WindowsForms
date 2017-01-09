@@ -1,0 +1,139 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{3662956C-CB9E-4990-8DB9-93637EAA22B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF1.1", "WF1.1\WF1.1.csproj", "{5AD0453A-D37F-48C0-B7EC-4599D2DD43D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF1.2", "WF1.2\WF1.2.csproj", "{1E77FD9D-D5D5-4D1F-A398-5BAD65664873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF1.3", "WF1.3\WF1.3.csproj", "{B7CEFBAE-E984-4742-B6A9-309AADA1225B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF1.4", "WF1.4\WF1.4.csproj", "{BD35B99A-A164-4A84-BF58-ACD4CE428506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF2.1 Calc", "WF2.1 Calc\WF2.1 Calc.csproj", "{705EA69D-BB4D-4842-8E4F-A4E82E04FF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF3.1 Millionaire", "WF3.1 Millionaire\WF3.1 Millionaire.csproj", "{A5C13151-87CF-477C-89CF-E1C2A87EE9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF4.1", "WF4.1\WF4.1.csproj", "{E1719776-C358-4662-A5E5-52CD46718B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF4.2", "WF4.2\WF4.2.csproj", "{9E57ECE9-CE75-4A40-AD95-911B1DA71ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF3.2 Millionaire Editor", "WF3.2 Millionaire Editor\WF3.2 Millionaire Editor.csproj", "{51B16097-E646-4547-AEAA-FB708C910876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF5.1 Text Editor", "WF5.1 Text Editor\WF5.1 Text Editor.csproj", "{A0738766-0EA3-4A30-B9B2-262B9CEFB098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF6.1 Explorer", "WF6.1 Explorer\WF6.1 Explorer.csproj", "{13C64E36-3F4F-4DD2-B4C5-AA1ADCF88889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF7.1 Web Browser (MDI)", "WF7.1 Web Browser (MDI)\WF7.1 Web Browser (MDI).csproj", "{B962F1A0-10CB-45A1-AA5D-23FC7CA4F94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3662956C-CB9E-4990-8DB9-93637EAA22B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3662956C-CB9E-4990-8DB9-93637EAA22B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3662956C-CB9E-4990-8DB9-93637EAA22B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3662956C-CB9E-4990-8DB9-93637EAA22B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD0453A-D37F-48C0-B7EC-4599D2DD43D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD0453A-D37F-48C0-B7EC-4599D2DD43D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD0453A-D37F-48C0-B7EC-4599D2DD43D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD0453A-D37F-48C0-B7EC-4599D2DD43D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E77FD9D-D5D5-4D1F-A398-5BAD65664873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E77FD9D-D5D5-4D1F-A398-5BAD65664873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E77FD9D-D5D5-4D1F-A398-5BAD65664873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E77FD9D-D5D5-4D1F-A398-5BAD65664873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CEFBAE-E984-4742-B6A9-309AADA1225B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CEFBAE-E984-4742-B6A9-309AADA1225B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CEFBAE-E984-4742-B6A9-309AADA1225B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CEFBAE-E984-4742-B6A9-309AADA1225B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD35B99A-A164-4A84-BF58-ACD4CE428506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD35B99A-A164-4A84-BF58-ACD4CE428506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD35B99A-A164-4A84-BF58-ACD4CE428506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD35B99A-A164-4A84-BF58-ACD4CE428506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705EA69D-BB4D-4842-8E4F-A4E82E04FF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705EA69D-BB4D-4842-8E4F-A4E82E04FF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705EA69D-BB4D-4842-8E4F-A4E82E04FF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705EA69D-BB4D-4842-8E4F-A4E82E04FF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C13151-87CF-477C-89CF-E1C2A87EE9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C13151-87CF-477C-89CF-E1C2A87EE9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C13151-87CF-477C-89CF-E1C2A87EE9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C13151-87CF-477C-89CF-E1C2A87EE9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1719776-C358-4662-A5E5-52CD46718B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1719776-C358-4662-A5E5-52CD46718B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1719776-C358-4662-A5E5-52CD46718B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1719776-C358-4662-A5E5-52CD46718B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E57ECE9-CE75-4A40-AD95-911B1DA71ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E57ECE9-CE75-4A40-AD95-911B1DA71ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E57ECE9-CE75-4A40-AD95-911B1DA71ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E57ECE9-CE75-4A40-AD95-911B1DA71ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B16097-E646-4547-AEAA-FB708C910876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B16097-E646-4547-AEAA-FB708C910876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B16097-E646-4547-AEAA-FB708C910876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B16097-E646-4547-AEAA-FB708C910876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0738766-0EA3-4A30-B9B2-262B9CEFB098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0738766-0EA3-4A30-B9B2-262B9CEFB098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0738766-0EA3-4A30-B9B2-262B9CEFB098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0738766-0EA3-4A30-B9B2-262B9CEFB098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C64E36-3F4F-4DD2-B4C5-AA1ADCF88889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C64E36-3F4F-4DD2-B4C5-AA1ADCF88889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C64E36-3F4F-4DD2-B4C5-AA1ADCF88889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C64E36-3F4F-4DD2-B4C5-AA1ADCF88889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B962F1A0-10CB-45A1-AA5D-23FC7CA4F94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B962F1A0-10CB-45A1-AA5D-23FC7CA4F94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B962F1A0-10CB-45A1-AA5D-23FC7CA4F94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B962F1A0-10CB-45A1-AA5D-23FC7CA4F94B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 14
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://skrpch.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WindowsForms\\WindowsForms.csproj
+		SccProjectName1 = WindowsForms
+		SccLocalPath1 = WindowsForms
+		SccProjectUniqueName2 = WF1.1\\WF1.1.csproj
+		SccProjectName2 = WF1.1
+		SccLocalPath2 = WF1.1
+		SccProjectUniqueName3 = WF1.2\\WF1.2.csproj
+		SccProjectName3 = WF1.2
+		SccLocalPath3 = WF1.2
+		SccProjectUniqueName4 = WF1.3\\WF1.3.csproj
+		SccProjectName4 = WF1.3
+		SccLocalPath4 = WF1.3
+		SccProjectUniqueName5 = WF1.4\\WF1.4.csproj
+		SccProjectName5 = WF1.4
+		SccLocalPath5 = WF1.4
+		SccProjectUniqueName6 = WF2.1\u0020Calc\\WF2.1\u0020Calc.csproj
+		SccProjectName6 = WF2.1\u0020Calc
+		SccLocalPath6 = WF2.1\u0020Calc
+		SccProjectUniqueName7 = WF3.1\u0020Millionaire\\WF3.1\u0020Millionaire.csproj
+		SccProjectName7 = WF3.1\u0020Millionaire
+		SccLocalPath7 = WF3.1\u0020Millionaire
+		SccProjectUniqueName8 = WF4.1\\WF4.1.csproj
+		SccProjectName8 = WF4.1
+		SccLocalPath8 = WF4.1
+		SccProjectUniqueName9 = WF4.2\\WF4.2.csproj
+		SccProjectName9 = WF4.2
+		SccLocalPath9 = WF4.2
+		SccProjectUniqueName10 = WF3.2\u0020Millionaire\u0020Editor\\WF3.2\u0020Millionaire\u0020Editor.csproj
+		SccProjectName10 = WF3.2\u0020Millionaire\u0020Editor
+		SccLocalPath10 = WF3.2\u0020Millionaire\u0020Editor
+		SccProjectUniqueName11 = WF5.1\u0020Text\u0020Editor\\WF5.1\u0020Text\u0020Editor.csproj
+		SccProjectName11 = WF5.1\u0020Text\u0020Editor
+		SccLocalPath11 = WF5.1\u0020Text\u0020Editor
+		SccProjectUniqueName12 = WF6.1\u0020Explorer\\WF6.1\u0020Explorer.csproj
+		SccProjectName12 = WF6.1\u0020Explorer
+		SccLocalPath12 = WF6.1\u0020Explorer
+		SccProjectUniqueName13 = WF7.1\u0020Web\u0020Browser\u0020(MDI)\\WF7.1\u0020Web\u0020Browser\u0020(MDI).csproj
+		SccProjectName13 = WF7.1\u0020Web\u0020Browser\u0020(MDI)
+		SccLocalPath13 = WF7.1\u0020Web\u0020Browser\u0020(MDI)
+	EndGlobalSection
+EndGlobal
